@@ -5,7 +5,7 @@
 - 💖 Gosto de participar de maratonas de programação
 - 📫 Meu email: nathaliabeatriz3101@gmail.com
 
-<div align="center">
+<div align="center" style="display: inline_block">
   <a href="https://github.com/nathaliabeatriz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nathaliabeatriz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathaliabeatriz&layout=compact&langs_count=7&theme=radical"/>
