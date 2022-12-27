@@ -1,9 +1,9 @@
 ### Olá, eu sou a Nathália Beatriz!
 
-- 🏫 Formada no curso de Técnico em Informática pelo IFTM
-- 📚 Estudando e me aprofundando em FrontEnd básico
-- 💖 Gosto de participar de maratonas de programação
-- 📫 Meu email: nathaliabeatriz3101@gmail.com
+🏫 Formada no curso de Técnico em Informática pelo IFTM <br>
+📚 Estudando e me aprofundando em FrontEnd básico <br>
+💖 Gosto de participar de maratonas de programação <br>
+📫 Meu email: nathaliabeatriz3101@gmail.com <br>
 
 <div align="center">
   <a href="https://github.com/nathaliabeatriz">
