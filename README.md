@@ -17,6 +17,7 @@
   <img align="center" alt="Nathália-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Nathália-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Nathália-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
+  <img align="right" alt="Nathália-gif" height="170" src="https://user-images.githubusercontent.com/94134475/213897408-e7f3a04e-2b4b-431c-9602-b1332c22cac0.gif">
 </div>
   
   ##
