@@ -28,3 +28,5 @@
   <a href="https://www.linkedin.com/in/nath%C3%A1lia-beatriz-leonel-santos-40067225b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+[!Snake animation](https://github.com/nathaliabeatriz/nathaliabeatriz/blob/output/github-contribution-grid-snake.svg)
+
