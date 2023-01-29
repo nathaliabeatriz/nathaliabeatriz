@@ -1,5 +1,5 @@
-<img align="right" alt="Nathália-gif" height="200" style="margin-top:30px" src="https://user-images.githubusercontent.com/94134475/215360073-85525e7e-0ae2-40e0-92e3-200c20f96f3e.gif">
 <h2>Hi everybody, my name is Nathália Beatriz!</h2>
+<img align="right" alt="Nathália-gif" height="200" vertical-align="center" src="https://user-images.githubusercontent.com/94134475/215360397-c7998f39-08ad-4163-9f8e-9641087f1407.gif">
 <h4>A passionate about the programming universe! (even knowing only 0,00001% of it 😅)</h4>
 
 <br>
@@ -24,6 +24,7 @@
 <br>
   
 ## 💻 Technologies and Tools
+<img align="right" alt="Nathália-gif" height="200" vertical-align="center" src="https://user-images.githubusercontent.com/94134475/215360073-85525e7e-0ae2-40e0-92e3-200c20f96f3e.gif">
   
 <div style="display: inline_block"><br>
   <code><img align="center" alt="Nathália-Js" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></code>
