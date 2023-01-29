@@ -1,26 +1,41 @@
-### Olá, eu sou a Nathália Beatriz!
+<img align="right" alt="Nathália-gif" height="180" style="margin-top:30px" src="https://user-images.githubusercontent.com/94134475/213929522-b959385d-4ce8-4dd8-8b03-8dcbaff07995.gif">
+<h1>Hi everybody, my name is Nathália Beatriz!</h1>
+<h3>A passionate about the programming universe! (even knowing only 0,00001% of it 😅)</h3>
 
-🏫 Formada no curso de Técnico em Informática pelo IFTM <br>
-📚 Estudando e me aprofundando em JavaScript no momento <br>
-💖 Gosto de participar de maratonas de programação <br>
-📫 Meu email: nathaliabeatriz3101@gmail.com <br>
+<br>
 
-<div align="center">
+<div>
+  🏫 I have a Computer Technical Course by IFTM <br>
+  📚 Studying and deepening my knowdlege in basic FrontEnd technologies and in C++ <br>
+  💖 I really like to solve logical problems and participate of programming marathons <br>
+  📫 My email: nathaliabeatriz3101@gmail.com <br>
+</div>
+
+<br>
+
+## 📈 My stats
+
+<div align="center" style="margin-top: -60px">
   <a href="https://github.com/nathaliabeatriz">
-  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=nathaliabeatriz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
- <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathaliabeatriz&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=nathaliabeatriz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+ <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathaliabeatriz&layout=compact&langs_count=7&theme=tokyonight"/>
  </div>
   
+<br>
+  
+## 💻 Technologies and Tools
+  
 <div style="display: inline_block"><br>
-  <img align="center" alt="Nathália-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Nathália-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Nathália-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Nathália-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Nathália-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
-  <img align="right" alt="Nathália-gif" height="170" src="https://user-images.githubusercontent.com/94134475/213929522-b959385d-4ce8-4dd8-8b03-8dcbaff07995.gif">
+  <code><img align="center" alt="Nathália-Js" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></code>
+  <code><img align="center" alt="Nathália-HTML" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
+  <code><img align="center" alt="Nathália-CSS" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
+  <code><img align="center" alt="Nathália-C++" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></code>
+  <code><img align="center" alt="Nathália-git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"></code>
 </div>
   
-  ##
+<br>
+  
+## 🔍 How to find me
   
  <div> 
   <a href="https://instagram.com/nathalialeonell" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
