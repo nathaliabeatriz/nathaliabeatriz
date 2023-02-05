@@ -1,6 +1,6 @@
 <h2>Hi everybody, my name is Nathália Beatriz!</h2>
-<img align="right" alt="Nathália-gif" height="150" vertical-align="center" src="https://user-images.githubusercontent.com/94134475/215360397-c7998f39-08ad-4163-9f8e-9641087f1407.gif">
 <h3>A passionate about the programming universe! (even knowing only 0,00001% of it 😅)</h3>
+<img align="right" alt="Nathália-gif" height="160" vertical-align="center" src="https://user-images.githubusercontent.com/94134475/215360397-c7998f39-08ad-4163-9f8e-9641087f1407.gif">
 
 <br>
 
