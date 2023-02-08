@@ -1,10 +1,10 @@
 <h2 align="center">Hi everybody, my name is Nathália Beatriz!</h2>
 <h3 align="center">A passionate about the programming universe! (even knowing only 0,00001% of it 😅)</h3>
-<img align="right" alt="Nathália-gif" height="150" vertical-align="center" src="https://user-images.githubusercontent.com/94134475/215360397-c7998f39-08ad-4163-9f8e-9641087f1407.gif">
 
 <br>
 
-<div >
+<div>
+  <img align="right" alt="Nathália-gif" height="150" vertical-align="center" src="https://user-images.githubusercontent.com/94134475/215360397-c7998f39-08ad-4163-9f8e-9641087f1407.gif">
   🏫 I have a Computer Technical Course by IFTM <br>
   📚 Studying and deepening my knowdlege in basic FrontEnd technologies and in C++ <br>
   💖 I really like to solve logical problems and participate of programming marathons <br>
