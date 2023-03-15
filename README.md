@@ -1,5 +1,5 @@
 <h2 align="center">Hi everybody, my name is Nathália Beatriz!</h2>
-<h3 align="center">A passionate about the programming universe! (even knowing only 0,00001% of it 😅)</h3>
+<h3 align="center">I'm passionate about the programming universe!</h3>
 
 <br>
 
