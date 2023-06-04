@@ -6,11 +6,11 @@
 <div>
   <img align="right" alt="Nathália-gif" height="150" vertical-align="center" src="https://user-images.githubusercontent.com/94134475/215360397-c7998f39-08ad-4163-9f8e-9641087f1407.gif">
   
-  - A Systems Analysis and Development student
-  - I have a Computer Technical Course by IFTM <br>
-  - Studying and deepening my knowdlege in basic FrontEnd technologies and in C++ <br>
-  - I really like to solve logical problems and participate of programming marathons <br>
-  - My email: nathaliabeatriz3101@gmail.com <br>
+  > A Systems Analysis and Development student <br>
+  > I have a Computer Technical Course by IFTM <br>
+  > Studying and deepening my knowdlege in C++ <br>
+  > I really like to solve logical problems and participate of programming marathons <br>
+  > My email: nathaliabeatriz3101@gmail.com <br>
 </div>
 
 <br>
@@ -25,7 +25,7 @@
   
 <br>
   
-## 💻 Technologies and Tools
+## 💻 Technologies I'm learning
 <img align="right" alt="Nathália-gif" height="200" vertical-align="center" src="https://user-images.githubusercontent.com/94134475/215360073-85525e7e-0ae2-40e0-92e3-200c20f96f3e.gif">
   
 <div style="display: inline_block"><br>
