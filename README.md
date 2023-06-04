@@ -1,14 +1,15 @@
-<h2 align="center">Hi everybody! My name is Nathália Beatriz 👋</h2>
-
+```cpp
+printf("Hello World!  My name is Nathália Beatriz!");
+```
 <br>
 
 <div>
-  <img align="right" alt="Nathália-gif" height="150" vertical-align="center" src="https://user-images.githubusercontent.com/94134475/215360397-c7998f39-08ad-4163-9f8e-9641087f1407.gif">
+  <img align="right" alt="Nathália-gif" height="145" vertical-align="center" src="https://user-images.githubusercontent.com/94134475/215360397-c7998f39-08ad-4163-9f8e-9641087f1407.gif">
   
-  >> A Systems Analysis and Development student <br>
-  >> I have a Computer Technical Course by IFTM <br>
-  >> Studying and deepening my knowdlege in C++ <br>
-  >> I really like to solve logical problems and participate of programming marathons <br>
+  >> 💻 Systems Analysis and Development student <br>
+  >> 🎓 I have a Computer Technical Course by IFTM <br>
+  >> 📘 Studying and deepening my knowdlege in C++ <br>
+  >> 🎈 I really like to solve logical problems and participate of programming marathons <br>
 </div>
 
 <br>
