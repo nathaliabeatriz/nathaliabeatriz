@@ -1,16 +1,14 @@
-<h2 align="center">Hi everybody, my name is Nathália Beatriz!</h2>
-<h3 align="center">I'm a passionate about the programming universe!</h3>
+<h2 align="center">Hi everybody! My name is Nathália Beatriz 👋</h2>
 
 <br>
 
 <div>
   <img align="right" alt="Nathália-gif" height="150" vertical-align="center" src="https://user-images.githubusercontent.com/94134475/215360397-c7998f39-08ad-4163-9f8e-9641087f1407.gif">
   
-  > A Systems Analysis and Development student <br>
-  > I have a Computer Technical Course by IFTM <br>
-  > Studying and deepening my knowdlege in C++ <br>
-  > I really like to solve logical problems and participate of programming marathons <br>
-  > My email: nathaliabeatriz3101@gmail.com <br>
+  >> A Systems Analysis and Development student <br>
+  >> I have a Computer Technical Course by IFTM <br>
+  >> Studying and deepening my knowdlege in C++ <br>
+  >> I really like to solve logical problems and participate of programming marathons <br>
 </div>
 
 <br>
@@ -33,7 +31,7 @@
   <code><img align="center" alt="Nathália-HTML" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
   <code><img align="center" alt="Nathália-CSS" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
   <code><img align="center" alt="Nathália-C++" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></code>
-  <code><img align="center" alt="Nathália-git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"></code>
+  <code><img align="center" alt="Nathália-git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"></code>
 </div>
   
 <br>
@@ -45,4 +43,6 @@
   <a href = "mailto:nathaliabeatriz3101@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/nathalia-beatriz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+  
+![Snake animation](https://github.com/nathaliabeatriz/nathaliabeatriz/blob/output/github-contribution-grid-snake.svg)
 
