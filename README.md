@@ -24,7 +24,6 @@ printf("Hello World!  My name is Nathália Beatriz!");
 <br>
   
 ## 💻 Technologies I'm learning
-<img align="right" alt="Nathália-gif" height="200" vertical-align="center" src="https://user-images.githubusercontent.com/94134475/215360073-85525e7e-0ae2-40e0-92e3-200c20f96f3e.gif">
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Nathália-Js" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
