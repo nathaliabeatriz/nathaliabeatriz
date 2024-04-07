@@ -7,7 +7,7 @@ printf("Hello World!  My name is Nathália Beatriz!");
   
   >> 💻 Systems Analysis and Development student <br>
   >> 🎓 I have a Computer Technical Course by IFTM <br>
-  >> 🎈 I really like to solve logical problems and participate of programming marathons <br>
+  >> 🎈 I really like solving logical problems and participating in programming marathons <br>
 </div>
 
 <br>
