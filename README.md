@@ -1,13 +1,12 @@
 ```cpp
-printf("Hello World!  My name is Nathália Beatriz!");
+printf("Hello, I'm Nathália Beatriz!");
 ```
 <br>
 
 <div>
-  
-  >> 💻 Systems Analysis and Development student <br>
-  >> 🎓 I have a Computer Technical Course by IFTM <br>
-  >> 🎈 I really like solving logical problems and participating in programming marathons <br>
+  💻 - Systems Analysis and Development student - IFTM <br>
+  🎓 - Computer Technician <br>
+  🎈 - I really enjoy studying for competitive programming and participating in marathons<br>
 </div>
 
 <br>
