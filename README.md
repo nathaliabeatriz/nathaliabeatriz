@@ -1,7 +1,21 @@
-### Olá, meu nome é Nathália Beatriz! <br><br>
+### Nathália Beatriz | Systems Analysis and Development Student <br><br>
 <div>
-  💻 Estudante  de Análise e Desenvolvimento de Sistemas - IFTM <br>
-  🎓 Técnica em Informática - IFTM <br>
+  📝 Undergraduate student at IFTM focused on learning and professional development. <br>
+  🎓 Completed a Technical Program in Computer Science. <br>
+  🌲 Currently developing a research project exploring bio-inspired algorithms applied to robotics for environmental surveillance.
+</div>
+
+<br>
+
+## 🖥️ Key Technologies
+<div style="display: inline_block"><br>
+  <img align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+  <img align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
+  <img align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+          
+  <img align="center" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
 </div>
 
 <br>
