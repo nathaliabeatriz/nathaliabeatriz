@@ -1,8 +1,7 @@
-### Nathália Beatriz | Systems Analysis and Development Student <br><br>
+### Nathália Beatriz<br><br>
 <div>
-  📝 Undergraduate student at IFTM focused on learning and professional development. <br>
-  🎓 Completed a Technical Program in Computer Science. <br>
-  🌲 Currently developing a research project exploring bio-inspired algorithms applied to robotics for environmental surveillance.
+  🎓 Graduada em Análise e Desenvolvimento de Sistemas | IFTM <br>
+  📝 Mestranda em Engenharia Elétrica | UFU
 </div>
 
 <br>
